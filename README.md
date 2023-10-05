@@ -1,39 +1,58 @@
-<!-- Your Name -->
-<h1 align="center">Arya Ngurah Intaran</h1>
+<h2 align="left">Hi there! I'm a passionate front-end and back-end developer with skills in HTML, CSS, React.js, Laravel, Lua, PHP, Python, MySQL, NextJs, and JavaScript.</h2>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1117660142108946462/1159318714022371428/Modern_Minimal_Gradient_Background_Technology_Banner.png?ex=653096b0&is=651e21b0&hm=d0f18af46912b2d113712a86f0c46e45bdc4946d0c4a96a480faf636a2be2371&" alt="Banner">
-</p>
+###
 
-<!-- Introduction -->
-<p align="center">👋 Hi there! I'm a passionate front-end and back-end developer with skills in HTML, CSS, React.js, Laravel, Lua, PHP, Python, MySQL, and JavaScript.</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaintrn09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaintrn09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!-- Tech Stack -->
-<h3 align="center">Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React.js">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
+###
 
-<!-- Projects -->
-<h3 align="center">Projects</h3>
-<!-- Add links and descriptions to your projects here. You can use a bullet-point list or any other format you prefer. -->
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1117660142108946462/1159318714022371428/Modern_Minimal_Gradient_Background_Technology_Banner.png?ex=653096b0&is=651e21b0&hm=d0f18af46912b2d113712a86f0c46e45bdc4946d0c4a96a480faf636a2be2371&"  />
 
-- [Portofolio](https://aryaintaran.tech): One of the projects I have made.
+###
 
-<!-- Contact and Social Media -->
-<h3 align="center">Contact Me</h3>
-<p align="center">
-  <a href="mailto:aryaintaran06@outlook.com">✉️ Email</a> |
-  <a href="https://instagram.com/aryaintrn_">LinkedIn</a> 
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+</div>
 
-<!-- Footer -->
-<p align="center">Thanks for visiting my profile! 🚀</p>
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/aryaintrn_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/KKABgnJe9Z" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:aryaintaran06@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aryaintrn09.aryaintrn09&"  />
+</div>
+
+###
