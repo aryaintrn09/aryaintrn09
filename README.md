@@ -1,18 +1,39 @@
-<h1 align="center">Hi 👋, I'm Arya Ngurah Intaran</h1>
-<h3 align="center">I am an ITB Stikom Bali student who has an interest in networking and game development, especially FiveM. Apart from that, I also have an interest in front-end and back-end development.</h3>
+<!-- Your Name -->
+<h1 align="center">Arya Ngurah Intaran</h1>
 
-- 🌱 I’m currently learning **lua, laravel, reactjs, html, css, js, php, python**
-
-- 📫 How to reach me **aryaintaran06@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aryaintrn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryaintrn_" height="30" width="40" /></a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1117660142108946462/1159318714022371428/Modern_Minimal_Gradient_Background_Technology_Banner.png" alt="Your Name Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Introduction -->
+<p align="center">👋 Hi there! I'm a passionate front-end and back-end developer with skills in HTML, CSS, React.js, Laravel, Lua, PHP, Python, MySQL, and JavaScript.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryaintrn09&show_icons=true&locale=en&layout=compact" alt="aryaintrn09" /></p>
+<!-- Tech Stack -->
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React.js">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryaintrn09&show_icons=true&locale=en" alt="aryaintrn09" /></p>
+<!-- Projects -->
+<h3 align="center">Projects</h3>
+<!-- Add links and descriptions to your projects here. You can use a bullet-point list or any other format you prefer. -->
+
+- [Portofolio](https://aryaintaran.tech): One of the projects I have made.
+
+<!-- Contact and Social Media -->
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="mailto:aryaintaran06@outlook.com">✉️ Email</a> |
+  <a href="https://instagram.com/aryaintrn_">LinkedIn</a> 
+</p>
+
+<!-- Footer -->
+<p align="center">Thanks for visiting my profile! 🚀</p>
