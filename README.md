@@ -3,7 +3,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1117660142108946462/1159318714022371428/Modern_Minimal_Gradient_Background_Technology_Banner.png" alt="Your Name Banner">
+  <img src="https://cdn.discordapp.com/attachments/1117660142108946462/1159318714022371428/Modern_Minimal_Gradient_Background_Technology_Banner.png?ex=653096b0&is=651e21b0&hm=d0f18af46912b2d113712a86f0c46e45bdc4946d0c4a96a480faf636a2be2371&" alt="Banner">
 </p>
 
 <!-- Introduction -->
